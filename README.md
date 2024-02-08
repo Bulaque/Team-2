@@ -3,7 +3,7 @@ Project 1
 
 This repository holds our first team project in the UNC Chapel Hill Data Analysis Bootcamp. The team consisted of Brooke Robertson, Blake Stephenson, Nayoung Kim, and Ilse Styles. 
 
-This project takes everything we have learned in class up to this point and combines them to showcase our abiltiy to ask a question, find data that could support our question, clean, analyisis, and create visualizations, and them presesnt our findings to class. Below is our project summary.
+This project takes everything we have learned in class up to this point and combines them to showcase our abiltiy to ask a question, find data that could support our question, clean, analyze, and create visualizations, and then present our findings to class. Below is our project summary.
 
 Project 1 Summary – Team 2
 
